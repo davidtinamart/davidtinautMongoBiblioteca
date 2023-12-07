@@ -1,0 +1,17 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/davidtinautMongoBiblio
+      auto-index-creation: true
+  mvc:
+    format:
+      date: yyyy-MM-dd
+      date-time: yyyy-MM-dd'T'HH:mm:ss
+      time: HH:mm:ss
+  docker:
+    compose:
+      lifecycle-management: start-only
+springdoc:
+  pathsToMatch: /api/**
+server:
+  port: 8080
