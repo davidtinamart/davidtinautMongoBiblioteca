@@ -1,5 +1,5 @@
-## Enlace a mi repositorio: https://github.com/davidtinamart/davidtinautMongoBiblioteca.git
-* Enunciado de la Práctica: Implementación de Programación Concurrente en Bases de Datos NoSQL
+* Enlace a mi repositorio: https://github.com/davidtinamart/davidtinautMongoBiblioteca.git
+# Implementación de Programación Concurrente en Bases de Datos NoSQL
 
 Objetivos de la práctica:
 
